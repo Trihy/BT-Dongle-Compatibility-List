@@ -1,4 +1,4 @@
-# BT-Dongle-Compatibility-List
+# BT-Dongle-Compatibility-List DS4Windows
 
 Testing List For BT dongles, both built in and external. For use with DS4Windows and other software.
 
