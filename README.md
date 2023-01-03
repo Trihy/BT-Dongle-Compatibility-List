@@ -22,5 +22,7 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 
 
 *DS = Dualsense
+
 *DS4 = DualShock 4
+
 *BT Headset = Any brand BT headset
