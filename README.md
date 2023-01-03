@@ -7,3 +7,13 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 
 
 
+-Dongle Brand     -BT Version &vidpid       -One Controller       -Two Controllers        -Three Controllers        -Four Controllers       -BT headset (when using controllers)
+
+Intel Ax200         5                          ✓                   x                         x                        x                        x
+Intel Ax201         5                          ✓                   x                         x                        x                        x
+Intel Ax401         5                          ✓                   x                         x                        x                        x
+
+
+
+TPLINK UB400        4                          ✓                   ✓                       Not tested              Not tested                ✓ (1 DS, more cause skip)
+TPLINK UB500 
