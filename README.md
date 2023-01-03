@@ -28,3 +28,5 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 *DS4 = DualShock 4
 
 *BT Headset = Any brand BT headset
+
+DATA is reported by users. There is no guarantee it will work the same for you. Use at your own risk.
