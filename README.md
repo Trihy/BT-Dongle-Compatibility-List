@@ -12,6 +12,6 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | Intel AX401  | 5  | ✓  | x  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
 | Test  | 5  | ✓  | x  | x  | x  | x  | x  | Content Cell  | Content Cell  |
 | Test  | 5  | ✓  | x  | x  | x  | x  | x  | Content Cell  | Content Cell  |
-| Tes  | 5  | ✓  | x  | x  | x  | x  | x  | Content Cell  | Content Cell  |
+| Test  | 5  | ✓  | x  | x  | x  | x  | x  | Content Cell  | Content Cell  |
 | TPLINK UB400  | 4  | ✓  | ✓  | Not tested  | Not tested  | Fine with one DS  | Skip BT Audio with 2 DS  | Empty  | CSR Chip  |
 | TPLINK UB500  | 5  | ✓  | ✓  | Not tested  | Not tested  | Fine with two DS  |   | Empty  | Realtek Chip  |
