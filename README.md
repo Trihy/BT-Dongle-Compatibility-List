@@ -1,0 +1,1 @@
+# BT-Dongle-Compatibility-List
