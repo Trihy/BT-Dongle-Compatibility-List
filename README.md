@@ -5,7 +5,7 @@
 Most BT dongles are compatible, but also most has some kind of limitation when comes to multiple controllers at the same time.
 
 
-| Dongle Brand  | BT Version | One Controller  | Two Controllers | Three Controllers  | Four Controllers | BT headset  | Comment | Comment  | Comment |
+| Dongle Model  | BT Version | One Controller  | Two Controllers | Three Controllers  | Four Controllers | BT headset  | Comment | Comment  | Comment |
 | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | Intel AX200  | 5  | ✓  | x  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
 | Intel AX201  | 5  | ✓  | x  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | 2 controllers sometimes work for some time  | Empty  |
