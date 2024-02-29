@@ -22,7 +22,7 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 
 
 
-
+IMPORTANT: A major release was made by intel that improves connection when using more than one controller. Please install INTEL BT driver 23.30.0 or newer.
 
 *DS = Dualsense
 
