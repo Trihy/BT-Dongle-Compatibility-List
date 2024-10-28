@@ -25,7 +25,8 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | ASUS BT500  | 5  | ✓  | ✓  | Not tested  | Not tested  | x  | x  | Empty  | Realtek Chip  |
 | TPLINK UB400  | 4  | ✓  | ✓  | Not tested  | Not tested  | Fine with one DS  | Skip BT Audio with 2 DS  | Empty  | CSR Chip  |
 | TPLINK UB400 v1.1 | 4  | ✓  | ✓  | Not tested  | Not tested  | Fine with one DS  |   | Empty  | Realtek Chip  |
-| TPLINK UB500  | 5  | ✓  | ✓  | ✓   | Not tested  | Fine with three DS  |   | VID_2357 PID_0604| Realtek Chip  |
+| TPLINK UB500  | 5  | ✓  | ✓  | ✓   | Not tested  | Fine with four DS  | ✓  | VID_2357 PID_0604| Realtek Chip  |
+| TPLINK UB500 PLUS | 5  | ✓  | ✓  | ✓   | Not tested  | Fine with four DS  | ✓  | | Realtek Chip  |
 
 
 
