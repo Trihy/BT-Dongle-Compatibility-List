@@ -29,7 +29,7 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | TPLINK UB500 PLUS | 5  | ✓  | ✓  | ✓  | ✓ | Fine with four DS  | ✓  | | Realtek Chip  |
 
 
-IMPORTANT: A major release was made by intel (feb 2024) that improves connection when using more than one controller. Please install INTEL BT driver 23.80.0 or newer.
+IMPORTANT: A major release was made by intel (feb 2024) that improves connection when using more than one controller. Please install INTEL BT driver 23.30.0 or newer.
 
 ** If using 3 or 4 Dualsense controllers consider getting a USB male-female extension wire to plug the Bluetooth dongle into and make sure its facing in the direction of the controllers. If not, extra latency might be felt or the controllers might just not register inputs at all. Also, connect the controllers first before BT headset/speaker.
 
