@@ -17,12 +17,14 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | Generic V5.0 | 5  | ✓  | x  | x  | x  | x  | x  | VID_0A12 PID_0001  | CSR Chip  |
 | ASUS BT500  | 5  | ✓  | ✓  | Not tested  | Not tested  | x  | x  | Empty  | Realtek Chip  |
 | TPLINK UB400  | 4  | ✓  | ✓  | Not tested  | Not tested  | Fine with one DS  | Skip BT Audio with 2 DS  | Empty  | CSR Chip  |
-| TPLINK UB500  | 5  | ✓  | ✓  | ✓   | Not tested  | Fine with three DS  |   | VID_2357 PID_0604| Realtek Chip  |
+| TPLINK UB500  | 5  | ✓  | ✓  | ✓   | ✓  | Fine with four DS  |   | VID_2357 PID_0604| Realtek Chip  |
 
 
 
 
 IMPORTANT: A major release was made by intel (feb 2024) that improves connection when using more than one controller. Please install INTEL BT driver 23.80.0 or newer.
+
+** If using 3 or 4 Dualsense controllers consider getting a USB male-female extension wire to plug the Bluetooth dongle into and make sure its facing in the direction of the controllers. If not, extra latency might be felt or the controllers might just not register inputs at all. Also, connect the controllers first before BT headset/speaker.
 
 *DS = Dualsense
 
