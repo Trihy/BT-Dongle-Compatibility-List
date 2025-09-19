@@ -40,4 +40,6 @@ IMPORTANT: A major release was made by intel (feb 2024) that improves connection
 
 *BT Headset = Any brand BT headset
 
+When using a BT headset, more than 2 DS can saturate most BT dongles.
+
 DATA is reported by users. There is no guarantee it will work the same for you. Use at your own risk.
