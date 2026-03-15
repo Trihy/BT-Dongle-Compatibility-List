@@ -7,11 +7,11 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 
 | Dongle Model  | BT Version | One Controller  | Two Controllers | Three Controllers  | Four Controllers | BT headset  | Comment | Comment  | Comment |
 | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| Intel AX200  | 5  | ✓  | x  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
-| Intel AX201  | 5  | ✓  | x  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | 2 controllers sometimes work for some time  | Empty  |
-| Intel AX210  | 5  | ✓  | x  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
-| Intel AX211  | 5  | ✓  | x  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
-| Intel AX411  | 5  | ✓  | x  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
+| Intel AX200  | 5  | ✓  | x*  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
+| Intel AX201  | 5  | ✓  | x*  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | 2 controllers sometimes work for some time  | Empty  |
+| Intel AX210  | 5  | ✓  | x*  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
+| Intel AX211  | 5  | ✓  | x*  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
+| Intel AX411  | 5  | ✓  | x*  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
 | Intel Killer AX1650  | 5  | ✓  | x  | x  | x  | BT Headset Wont connect  | When using DS, fine for DS4  | Empty  | Empty  |
 | Intel BE200  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | x  | Empty  | Empty  |
 | Intel BE201  | 5.4  | ✓  | Not tested  | Not Tested  | Not tested  | Not Tested  | x  | Empty  | Empty  |
@@ -30,7 +30,7 @@ Most BT dongles are compatible, but also most has some kind of limitation when c
 | TPLINK UB500 PLUS | 5  | ✓  | ✓  | ✓  | ✓ | Fine with four DS  | ✓  | | Realtek Chip  |
 
 
-IMPORTANT: A major release was made by intel (feb 2024) that improves connection when using more than one controller. Please install INTEL BT driver 23.30.0 or newer.
+*IMPORTANT: A major release was made by intel (feb 2024) that improves connection when using more than one controller. Please install INTEL BT driver 23.30.0 or newer.
 
 ** If using 3 or 4 Dualsense controllers consider getting a USB male-female extension wire to plug the Bluetooth dongle into and make sure its facing in the direction of the controllers. If not, extra latency might be felt or the controllers might just not register inputs at all. Also, connect the controllers first before BT headset/speaker.
 
